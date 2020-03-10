@@ -1,6 +1,7 @@
 # CPE_BSQ_2019
 
 ## Description
+Elementary Programming in C BSQ Epitech Teck1
 
 You must find the largest possible square on a board while avoiding obstacles.
 
